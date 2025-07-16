@@ -1,4 +1,4 @@
-Absolutely, Inam! Based on your project description and the contents of your GitHub repository, here’s a professional and well-structured `README.md` file tailored for your **Class Project ERP System**:
+**Class Project ERP System**:
 
 ---
 # 📦 A.T COMMODITIES ERP SYSTEM
